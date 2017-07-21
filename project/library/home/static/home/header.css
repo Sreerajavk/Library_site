@@ -1,0 +1,26 @@
+
+.header{
+    background: #b52306;
+    height:110px;
+   
+   
+    
+}
+
+.header h1{
+        text-align: center;
+        float: right;
+        padding-top:20px;
+        margin-right: 400px;
+        font-family:serif;
+        font-weight: lighter;
+        color: white;
+
+}
+.header img{
+    margin-left: 120px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}

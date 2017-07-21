@@ -1,0 +1,44 @@
+
+h1{
+	font-weight: 500px;
+	color: black;
+	text-align: center;
+	text-shadow: 2px 1px 2px red;
+	font-weight: bold;
+
+	font-family: arial;
+}
+
+ul a{text-decoration: none;
+                   }
+
+
+ul {display: inline;padding-bottom: 20px;list-style-type: none;}
+
+.box{
+	width:150px;
+	height: 150px;
+	background-color:white;
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;
+	position: relative;
+	left: 30px;
+
+}
+li{
+	padding-bottom: 20px;
+}
+ul a:hover
+{
+   text-decoration: underline;
+   color: red;
+
+}
+
+body{
+	background-color:#e3e3e3;
+
+
+}
+

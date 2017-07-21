@@ -1,0 +1,35 @@
+<!DOCTYPE>
+<html>
+   <head>
+          {% load static %}
+          {% block head %}
+              <title>  </title>
+                  
+           {% endblock %}
+        
+        
+           <link href="{% static 'home/header.css' %}" rel="stylesheet" type="text/css"> 
+           <div class="header">
+            
+               <h1>
+                     Goverment Engineering College, Thrissur  <br> College library
+               </h1>
+                <img src="{% static 'home/img/logo2.png' %}">
+
+            </div>
+               
+           
+           
+        
+    </head>
+
+   <body>
+        
+         {% block body %}
+          
+          
+         {% endblock %}
+   </body>
+    
+
+</html>
